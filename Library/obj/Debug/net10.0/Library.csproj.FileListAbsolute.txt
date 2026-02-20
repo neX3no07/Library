@@ -1,0 +1,14 @@
+/Users/andreykhen/RiderProjects/Library/Library/bin/Debug/net10.0/Library
+/Users/andreykhen/RiderProjects/Library/Library/bin/Debug/net10.0/Library.deps.json
+/Users/andreykhen/RiderProjects/Library/Library/bin/Debug/net10.0/Library.runtimeconfig.json
+/Users/andreykhen/RiderProjects/Library/Library/bin/Debug/net10.0/Library.dll
+/Users/andreykhen/RiderProjects/Library/Library/bin/Debug/net10.0/Library.pdb
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.AssemblyInfoInputs.cache
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.AssemblyInfo.cs
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.csproj.CoreCompileInputs.cache
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.dll
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/refint/Library.dll
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.pdb
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/Library.genruntimeconfig.cache
+/Users/andreykhen/RiderProjects/Library/Library/obj/Debug/net10.0/ref/Library.dll
